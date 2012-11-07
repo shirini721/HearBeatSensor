@@ -1,3 +1,5 @@
+ //resource: http://cmpercussion.blogspot.com/2009/07/heartbeat-sensor.html
+ 
  // Pins
 const int ledPin = 13;
 const int sensePin = 0;
